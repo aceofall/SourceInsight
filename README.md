@@ -1,0 +1,4 @@
+SourceInsight
+=============
+
+Source Insight configuration.
